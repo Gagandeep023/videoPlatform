@@ -1,0 +1,16 @@
+{
+  "name": "video-platform",
+  "version": "1.0.0",
+  "description": "video streaming platform using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "GAGAN",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
